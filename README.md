@@ -6,7 +6,9 @@
 # "MODIFICADORES DE ACESSO";
 
 public: acesso de qualquer classe.
+
 private:acesso apenas dentro da classe.
+
 protected: acesso por classe no mesmo pacote e subclasses.
 
 # "PRIMITIVOS";
